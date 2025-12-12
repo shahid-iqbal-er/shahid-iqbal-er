@@ -60,5 +60,5 @@
 ---
 
 <div align="center">
-  <p>Thanks for visiting my profile! Let's build something amazing together.</p>
+  <p>The only person you are destined to becomeis the person you decide to be.</p>
 </div>
