@@ -4,8 +4,11 @@
   
   <br />
 
-  <!-- LINK TO YOUR DEPLOYED REACT APP HERE -->
-  <a href="https://shahid-iqbal-er.github.io">
+  <!-- 
+    NOTE: Once you enable GitHub Pages in your repo settings,
+    the link below will work. It points to the standard URL for a profile repo.
+  -->
+  <a href="https://shahid-iqbal-er.github.io/shahid-iqbal-er/">
     <img src="https://img.shields.io/badge/🚀_Launch_Interactive_3D_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Launch Portfolio" />
   </a>
   
