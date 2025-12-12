@@ -1,65 +1,59 @@
+<!-- Header with Animated Typing Text -->
 <div align="center">
-  <h1>Hi there, I'm Shahid Iqbal! 👋</h1>
-  <h3>Data Scientist | Machine Learning Enthusiast</h3>
-  
-  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey+there,+I'm+Shahid+Iqbal!+👋;Data+Scientist;Machine+Learning+Enthusiast;Transforming+Data+into+Insights" alt="Typing SVG" />
+</div>
 
-  <!-- 
-    NOTE: Once you enable GitHub Pages in your repo settings,
-    the link below will work. It points to the standard URL for a profile repo.
-  -->
-  <a href="https://shahid-iqbal-er.github.io/shahid-iqbal-er/">
-    <img src="https://img.shields.io/badge/🚀_Launch_Interactive_3D_Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Launch Portfolio" />
+<!-- Dynamic Stats Section -->
+<div align="center">
+  <a href="https://github.com/shahid-iqbal-er">
+    <img src="https://github-readme-stats.vercel.app/api?username=shahid-iqbal-er&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=94a3b8&icon_color=3B82F6&hide=contribs" height="135" alt="stats graph" />
   </a>
+  <a href="https://github.com/shahid-iqbal-er">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid-iqbal-er&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=94a3b8&icon_color=3B82F6" height="135" alt="languages graph" />
+  </a>
+</div>
+
+---
+
+### 🚀 About Me
+
+I'm an ambitious **Computer Science graduate** with a strong passion for data science, artificial intelligence, and machine learning. My journey involves transforming raw data into meaningful insights and building intelligent systems that drive decision-making.
+
+- 🔭 **Current Focus:** Advanced Machine Learning algorithms, Deep Learning architectures, and Quantum Computing.
+- 🌱 **Learning:** Always eager to dive deeper into new frameworks and tools.
+- 👯 **Collaboration:** Open to open-source machine learning projects and data analysis challenges.
+- 💬 **Ask me about:** Python, SQL, Machine Learning (Scikit-learn, TensorFlow), and Data Visualization.
+- 📫 **Contact:** [LinkedIn](http://www.linkedin.com/in/shahid-iqbal-1729si)
+
+---
+
+### 🌌 Languages and Tools
+
+<div align="center">
+  <p><i>My technical arsenal arranged in a digital constellation</i></p>
   
-  <p>
-    <i>GitHub profiles are static, but my portfolio isn't.<br/>Click the button above to explore my skills in an interactive 3D Galaxy!</i>
-  </p>
+  <!-- Skill Icons: Modern, colorful, and clean look -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,mysql,bash,tensorflow,sklearn,numpy,pandas,flask,matplotlib,seaborn,postgres,git,github,jupyter,vscode,tableau&perline=9&theme=dark" alt="My Skills" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-I'm an ambitious **Computer Science graduate** passionate about transforming raw data into actionable insights. I build intelligent systems using advanced ML algorithms and Deep Learning architectures.
-
-- 🔭 **Current Focus**: Quantum Computing & Advanced ML.
-- 🌱 **Learning**: Deep diving into new Data Science frameworks.
-- 👯 **Collaboration**: Open to open-source AI/ML projects.
-- 📫 **Contact**: [LinkedIn](http://www.linkedin.com/in/shahid-iqbal-1729si)
-
----
-
-### 🛠 Technical Arsenal
+### 🤝 Connect With Me
 
 <div align="center">
-
-  <h4>Languages & Core</h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-
-  <h4>Machine Learning & AI</h4>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-
-  <h4>Data Visualization & Tools</h4>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-30A8CD?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
+  <a href="http://www.linkedin.com/in/shahid-iqbal-1729si" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shahid-iqbal-er" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
----
+<br />
 
+<!-- Dynamic Quote Card -->
 <div align="center">
-  <br>
-  <i>"The only person you are destined to become is the person you decide to be."</i>
-  <br>
-  — <b>Ralph Waldo Emerson</b>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20person%20you%20are%20destined%20to%20become%20is%20the%20person%20you%20decide%20to%20be.&author=Ralph%20Waldo%20Emerson" alt="Quote" />
 </div>
