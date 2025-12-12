@@ -59,6 +59,10 @@
 
 ---
 
+<br>
 <div align="center">
-  <p>The only person you are destined to becomeis the person you decide to be.</p>
+  <i>"The only person you are destined to become is the person you decide to be."</i>
+  <br>
+  — <b>Ralph Waldo Emerson</b>
 </div>
+<br>
