@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✨ Hey there, I'm <strong>Shahid Iqbal</strong>! 👋</h1>
-  <p><em>Aspiring Data Scientist | AI & Machine Learning Enthusiast | Quantum Computing Learner</em></p>
+  <p><em> Technical Support Engineer | Aspiring Data Scientist | AI & Machine Learning Enthusiast | Quantum Computing Learner</em></p>
 </div>
 
 ---
